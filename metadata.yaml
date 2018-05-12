@@ -21,6 +21,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Eino_Leino
     - http://en.wikipedia.org/wiki/Eino_Leino
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14649#Sata-ja-yksi-laulua--Hiiht-j-n-virsi---Pyh--kev-t
 gutenberg_issued: '2005-01-10'
 gutenberg_type: Text
 identifiers:
